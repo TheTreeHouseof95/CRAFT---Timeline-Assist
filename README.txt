@@ -1,6 +1,8 @@
 CRAFT - Timeline Assist
 =======================
 
+CRAFT - Timeline Assist is a compact 3ds Max timeline helper for quickly focusing frame ranges, saving animation sections as clickable presets, and keeping those presets stored with each Max scene.
+
 Files you need:
 
 - CRAFT - Timeline Assist.mzp
