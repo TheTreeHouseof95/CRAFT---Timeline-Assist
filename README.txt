@@ -46,8 +46,6 @@ The uninstall macro removes the startup launcher, installed runtime files, callb
 Notes:
 
 - Startup is enabled by default after install.
-- The runtime is packaged as .pyc bytecode, not readable .py source.
-- .pyc discourages casual source inspection, but it is not true encryption.
 - GitHub: https://github.com/TheTreeHouseof95/CRAFT---Timeline-Assist.git
 - For bugs/requests visit: https://github.com/TheTreeHouseof95/CRAFT---Timeline-Assist/discussions
 - Email: thetreehouseof95@gmail.com
