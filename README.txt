@@ -27,6 +27,10 @@ Files you need:
 
 Release Notes:
 
+v1.04
+- Fixed the startup listener warning caused by redundant preset scrollbar signal disconnects.
+- Preset scrollbar setup now connects cleanly once and avoids noisy RuntimeWarning messages on startup.
+
 v1.03
 • Added numbered preset rows.
 • Reserved the row-number lane so preset bars do not overlap row labels.
